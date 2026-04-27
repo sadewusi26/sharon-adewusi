@@ -1,8 +1,6 @@
 # Hi, I'm Sharon 👋
 
-**Technical Writer based in the UK, currently at Twilio.**
-
-This is where I keep writing samples and occasional contributions to the world. I work in docs-as-code day-to-day (GitHub, Markdown, VS Code), use AI tools as part of my editorial workflow, and I'm currently upskilling in AI/NLP because that's the area I want to grow into next.
+Technical Writer based in the UK, currently at **Twilio**.
 
 ## About me
 
