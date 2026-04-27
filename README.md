@@ -21,4 +21,4 @@ I come from a background in Chemical Engineering with a year in Computer Science
 
 ## Contact
 
-📫 **[Email](mailto:sharon.adewusi@gmail.com) · [LinkedIn](https://linkedin.com/in/sharon-adewusi) · [Portfolio]([https://sharonadewusi.notion.site](https://sharonadewusi.notion.site/fc2aa93f46104d10b6c316a998364344?v=136004eba040806e9bd7000cbf2208a6)**
+📫 **[Email](mailto:sharon.adewusi@gmail.com) · [LinkedIn](https://linkedin.com/in/sharon-adewusi) · [Portfolio](https://sharonadewusi.notion.site/fc2aa93f46104d10b6c316a998364344?v=136004eba040806e9bd7000cbf2208a6)**
