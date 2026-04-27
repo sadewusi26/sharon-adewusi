@@ -4,9 +4,9 @@ Technical Writer based in the UK, currently at **Twilio**.
 
 ## About me
 
-I joined Twilio in 2025, working on Segment documentation and, more recently, the new Twilio Console docs.
+I joined Twilio in 2025 and have worked primarily on Twilio [Segment](https://www.twilio.com/docs/segment) documentation. More recently, I have been focused on the new Twilio Console docs.
 
-Before Twilio, I worked at YouGov, collaborating with product and engineering teams to document internal market research tools.
+Before Twilio, I worked at YouGov (2022-2024), collaborating with product and engineering teams to document internal market research tools.
 
 I come from a background in Chemical Engineering with a year in Computer Science (BEng from the University of Birmingham). In my spare time, I'm improving my German from B1.
 
