@@ -34,5 +34,4 @@ Worked on customer-facing communications (September 2022) related to YouGov's su
 
 ## Sample
 
-![Screenshot of YouGov customer email](./images/YouGov Customer Comms.png)
-
+![Screenshot of YouGov customer email](./images/yougov-customer-comms.png)
