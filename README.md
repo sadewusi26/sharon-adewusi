@@ -12,7 +12,7 @@ I come from a background in Chemical Engineering with a year in Computer Science
 
 ## Writing samples
 
-[**Twilio Numbers and Senders documentation**](https://twilio.com/docs/numbers-and-senders): Product documentation for Numbers and Senders function of Twilio Console.
+- [**Twilio Numbers and Senders documentation**](https://twilio.com/docs/numbers-and-senders): Product documentation for Numbers and Senders function of Twilio Console.
 - [**Twilio <> Reddit Ads Conversion API Integration recipe**](https://www.twilio.com/docs/segment/connections/destinations/catalog/actions-webhook-extensible/reddit-ads-conversion-api-integration-recipe): Step-by-step integration guide for connecting Twilio Segment to Reddit Ads Conversion API.
 - [**Twilio Segment Destination Actions documentation**](https://www.twilio.com/docs/segment/connections/destinations/actions): Reference and conceptual content for Twilio Segment's Destination Actions framework.
 - [**YouGov customer email comms**](https://sharonadewusi.notion.site/Communications-YouGov-Members-Email-8055857a157f474aa2b3585d6f5a089e): Customer-facing emails for YouGov's survey panel members.
