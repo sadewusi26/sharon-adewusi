@@ -1,4 +1,4 @@
-[Home](./index.md) | [Case Studies](./case-studies.md) | [Writing Samples](./writing-samples.md) | [Experiments](./experiments.md) | [About](./about.md)
+[Home](./index.md) | [Case Studies](./case-studies.md) | [Writing Samples](./writing-samples.md) | [About](./about.md)
 
 # About me
  
@@ -30,4 +30,4 @@ Reference and conceptual documentation for Twilio Segment Destination Actions.
 
 - [Email](mailto:sharon.adewusi@gmail.com)
 - [LinkedIn](https://linkedin.com/in/sharon-adewusi) 
-- [Portfolio](https://sharonadewusi.notion.site/fc2aa93f46104d10b6c316a998364344?v=136004eba040806e9bd7000cbf2208a6)**
+- [Portfolio](https://sharonadewusi.notion.site/fc2aa93f46104d10b6c316a998364344?v=136004eba040806e9bd7000cbf2208a6)
