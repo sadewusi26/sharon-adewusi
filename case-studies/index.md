@@ -7,7 +7,7 @@ A selection of documentation projects covering developer documentation, integrat
 - [Twilio Console Documentation](https://www.twilio.com/docs/numbers-and-senders)
 - [Reddit Ads Conversion API Integration Guide](https://www.twilio.com/docs/segment/connections/destinations/catalog/actions-webhook-extensible/reddit-ads-conversion-api-integration-recipe)
 - [Segment Destination Actions Documentation](https://www.twilio.com/docs/segment/connections/destinations/actions)
-- [YouGov Customer Comms](/case-studies/yougov-comms)
+- [YouGov Customer Comms](./yougov-comms.md)
 
 <!--
 # Twilio Flex API Documentation 

@@ -30,7 +30,7 @@ Outside of work, I enjoy language learning and have maintained a 6+ year Duoling
 
 Product documentation for messaging onboarding, sender management, and compliance workflows within Twilio Console.
 
-[View writing sample](./writing-samples/short-codes.md)
+[View writing sample](./case-studies/twilio-console.md)
 
 ---
 
