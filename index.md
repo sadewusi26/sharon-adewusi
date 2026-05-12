@@ -1,12 +1,26 @@
-[Home](./index.md) | [Case Studies](./case-studies.md) | [Writing Samples](./writing-samples.md) | [About](./about.md)
+[Home](./index.md) | [Case Studies](./case-studies/index.md) | [Writing Samples](./writing-samples/index.md)
 
-# About me
- 
-Technical writer with experience across developer documentation, SaaS products, and market research tools.
+# Hi, I'm Sharon 👋
 
-I enjoy turning complex technical workflows into clear, usable guidance, and have worked on integrations, docs-as-code workflows, API documentation, and customer communications.
+Technical Writer based in the UK, currently at **Twilio**.
 
-Outside of work, I enjoy language learning, currently improving my German and French, and maintaining a 6+ year Duolingo streak.
+## About me
+
+Technical writer with experience across developer documentation, SaaS products, and market research tools. I enjoy turning complex technical workflows into clear, usable guidance, and have worked on integrations, docs-as-code workflows, API documentation, and customer communications.
+
+Outside of work, I enjoy language learning and have maintained a 6+ year Duolingo streak learning German and French.
+
+---
+
+## What I work on
+
+- Developer documentation
+- Internal enablement documentation
+- Docs-as-code workflows
+- SaaS product documentation
+- Customer communications
+- Documentation usability and content structure
+- API and integration guides
 
 ---
 
@@ -14,20 +28,28 @@ Outside of work, I enjoy language learning, currently improving my German and Fr
 
 ### Twilio Numbers and Senders documentation
 
-Product documentation for Twilio Console workflows related to messaging setup and sender management.
+Product documentation for messaging onboarding, sender management, and compliance workflows within Twilio Console.
+
+[View writing sample](./writing-samples/short-codes.md)
+
+---
 
 ### Reddit Ads Conversion API integration guide
 
-Step-by-step integration guide for connecting Twilio Segment to Reddit Ads Conversion API.
+Step-by-step integration documentation for connecting Twilio Segment to Reddit Ads Conversion API using extensible webhooks.
 
-### Segment Destination Actions documentation
+[View case study](./case-studies/twilio-reddit-recipe.md)
 
-Reference and conceptual documentation for Twilio Segment Destination Actions.
+---
+
+### Segment destination integrations
+
+Developer-facing integration documentation covering setup flows and supported methods.
+
+[View writing sample](./writing-samples/destination-doc.md)
 
 ---
 
 ## Contact
 
-- [Email](mailto:sharon.adewusi@gmail.com)
-- [LinkedIn](https://linkedin.com/in/sharon-adewusi) 
-- [Portfolio](https://sharonadewusi.notion.site/fc2aa93f46104d10b6c316a998364344?v=136004eba040806e9bd7000cbf2208a6)
+📫 **[Email](mailto:sharon.adewusi@gmail.com) · [LinkedIn](https://linkedin.com/in/sharon-adewusi)**
