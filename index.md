@@ -2,13 +2,13 @@
 
 # Hi, I'm Sharon 👋
 
-Technical Writer based in the UK, currently at **Twilio**.
+Technical Writer based in the UK.
 
 ## About me
 
-Technical writer with experience across developer documentation, SaaS products, and market research tools. I enjoy turning complex technical workflows into clear, usable guidance, and have worked on integrations, docs-as-code workflows, API documentation, and customer communications.
+Technical writer with experience across developer documentation, SaaS products, and market research tools. I enjoy turning complex technical workflows into clear, usable guidance and have worked on integrations, docs-as-code workflows, API documentation, and customer communications.
 
-Outside of work, I enjoy language learning and have maintained a 6+ year Duolingo streak learning German and French.
+Outside of work, I enjoy language learning and have maintained a 6+ year Duolingo streak learning German and French 🦉.
 
 ---
 
